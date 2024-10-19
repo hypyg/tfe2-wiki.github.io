@@ -57,6 +57,17 @@ landed ships.
 8. Complete a few Hackers of the Bolt missions. (Complete all Hacker missions up to Factory Hack)
 9. Build the Alien Decryptor
 
+## City of The Key
+---
+This the last sceanrio. Unlike all the other 3 scenarios, you will begin with production buildings that produce all the resouces available in the game, 12 wooden houses, 2 pubs, 3 landing pads, 2 teleporters, workshop, and a computing research center, and the secret society of the key.
+### Tasks In This Scenario
+ 1. Invite 10 more citizens using the management menu.
+ 2. Produce 100 food, 100 stone, and 50 knowledge on a day.
+ 3. Build 5 Sculpture Gardens.
+ 4. Gather 150 knowledge in a day.
+ 5. Have at least 5 teleporters in your city.
+ 6. Build 3 Villas.
+
 ## Winter World
 ---
 This is a scenario that is annually available in December across all platforms that have Final Earth 2 as an HTML game. Here, you start with nothing, kind of like A New Beginning except that your world is covered in slow and you have two or so landing pads, like one of the Free Play Scenarios, A blank canvas. There are several special buildings.
