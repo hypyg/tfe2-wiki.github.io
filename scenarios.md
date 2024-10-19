@@ -43,7 +43,7 @@ and a spaceship.
 
 ## Hacking Alien Tech
 ---
-This is the last scenario you can actually play. Unlike the previous scenarios, you will start
+This is the 3rd scenario you can actually play. Unlike the previous scenarios, you will start
 with an Indoor Farm, a Woodcutting Center, a Stone Mine, and 4 houses already built, along with 2 
 landed ships.
 ### Tasks in this scenario
@@ -56,6 +56,15 @@ landed ships.
 7. Build the Hackers of the Bolt HQ.
 8. Complete a few Hackers of the Bolt missions. (Complete all Hacker missions up to Factory Hack)
 9. Build the Alien Decryptor
+
+## City of The Key
+---
+This the last sceanrio. Unlike all the other 3 scenarios, you will begin with production buildings that produce all the resouces available in the game, 12 wooden houses, 2 pubs, workshop, and a computing research center.
+### Tasks In This Scenario
+ 1. Invite 10 more citizens using the management menu.
+ 2. Produce 100 food, 100 stone, and 50 knowledge on a day.
+ 3. Build 5 Sculpture Gardens.
+ 4. 
 
 ## Winter World
 ---
