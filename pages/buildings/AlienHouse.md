@@ -36,3 +36,18 @@ Entry in `buildinginfo.json`
 
 Sprite: `spr_alienhouse`
 
+## Upgrades 
+
+Living Computer: Improves Housing Quality by 10, unlock by researching slimy living in Living Research Center.
+You can change the appearance of this upgrade.
+
+```json
+{
+    "className": "Living Computer"
+    "food": 25,
+    "wood": 50,
+    "computerChips": 1
+    "category": "Upgrades"
+    "unlockedByDefault": false
+}
+
